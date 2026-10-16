@@ -1,7 +1,7 @@
 package com.pluralsight;
 
 import java.util.*;
-public class PayrollCalculator {
+public class updatedPayrollCalculator {
     public static void main(String[] args){
         Scanner myScanner = new Scanner(System.in);
 
